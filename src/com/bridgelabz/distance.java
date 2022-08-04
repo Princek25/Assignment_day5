@@ -1,2 +1,8 @@
-package com.bridgelabz;public class distance {
-}
+package com.bridgelabz;
+import java.util.Scanner;
+
+
+public class distance {
+
+        }
+
